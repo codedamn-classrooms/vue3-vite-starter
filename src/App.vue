@@ -1,5 +1,5 @@
 <template>
-  <img alt="Vue logo" src="https://codedamn.com/assets/images/red-logo.png" />
+  <img alt="Vue logo" style="width: 50px;" src="https://codedamn.com/assets/images/red-logo.png" />
   <HelloWorld msg="Hello Vue 3 from codedamn :)" />
 </template>
 
